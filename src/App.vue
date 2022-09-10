@@ -16,7 +16,7 @@
 // };
 export default {
   data: () => ({
-    contador: 0,
+    contador: 500,
   }),
   methods: {
     saludar() {
