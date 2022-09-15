@@ -40,7 +40,7 @@ export default {
 
   <div class="container">
     <small>
-      <h1>Hola desde VUE.js 3, Cambios desde local</h1>
+      <h1>Hola desde VUE.js 3</h1>
     </small>
     <br />
     <h2>Contador {{ contador }}</h2>
